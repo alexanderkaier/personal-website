@@ -12,18 +12,17 @@ education:
   - course: BSc in Artificial Intelligence
     institution: Massachusetts Institute of Technology
     year: 2008
-first_name: Shiung Wu
+first_name: Alexander
 highlight_name: true
 interests:
 - Artificial Intelligence
 - Computational Linguistics
 - Information Retrieval
-last_name: Chien
-name_pronunciation: Chien Shiung Wu
+last_name: Kaier
 organizations:
 - name: Stanford University
   url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+role: PhD student of Bioinformatics and Quantitative Genetics
 skills:
 - items:
   - description: ""
@@ -86,8 +85,8 @@ social:
 status:
   icon: ☕️
 superuser: true
-title: 吳健雄
+title: Alexander Kaier
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Bonjour
 {style="text-align: justify;"}
