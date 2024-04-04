@@ -1,6 +1,5 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio:
 education:
   courses:
   - course: PhD in Bioinformatics
@@ -16,11 +15,14 @@ first_name: Alexander
 highlight_name: true
 interests:
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Bioinformatics
+- Quantitative Genetics
+- Statistical Genetics
+- Data Science
+- Statistics
 last_name: Kaier
 organizations:
-- name: Stanford University
+- name: FAU Erlangen-Nürnberg
   url: https://www.stanford.edu/
 role: PhD student of Bioinformatics and Quantitative Genetics
 skills:
@@ -34,12 +36,22 @@ skills:
     icon: chart-line
     icon_pack: fas
     name: Data Science
-    percent: 100
+    percent: 70
   - description: ""
     icon: database
     icon_pack: fas
     name: SQL
     percent: 40
+  - description: ""
+    icon: r-project
+    icon_pack: fab
+    name: R
+    percent: 90
+  - description: ""
+    icon: chart-bar
+    icon_pack: fas
+    name: Statistics
+    percent: 100
   name: Technical
 - color: '#eeac02'
   color_border: '#f0bf23'
@@ -48,17 +60,22 @@ skills:
     icon: person-hiking
     icon_pack: fas
     name: Hiking
+    percent: 70
+  - description: ""
+    icon: book-open
+    icon_pack: fas
+    name: Philosophy
     percent: 60
   - description: ""
-    icon: cat
+    icon: infinity
     icon_pack: fas
-    name: Cats
-    percent: 100
-  - description: ""
-    icon: camera-retro
-    icon_pack: fas
-    name: Photography
+    name: Mathematics
     percent: 80
+  - description: ""
+    icon: socks
+    icon_pack: fas
+    name: Knitting
+    percent: 50
   name: Hobbies
 social:
 - icon: envelope
@@ -88,5 +105,12 @@ superuser: true
 title: Alexander Kaier
 ---
 
-Bonjour
+Welcome! I am a Bioinformatician who is interested in multi-omics approaches and selection theory to help invent the crops we eat tomorrow. My current focus lies on the illumination of the biochemical processes underlying heat and drought stress in potato plants.
+
+Besides my research, I am passionate about statistics, mathematics and philosophy and do not shy away from a deep discussion about the nature and boundaries of human knowledge.
+
+Feel free to reach out to me if you want to know more about evolutionary theory, molecular breeding approaches, statistical analysis or if you are interested in a collaboration.
+
+[//]: # (One of my idols, the great french mathematician Henri Poincaré, has once been described as follows: "He took up new interests, but seldom dropped any". In that regard, I feel very much connected to him. I am frequently switching between my .)
+
 {style="text-align: justify;"}
