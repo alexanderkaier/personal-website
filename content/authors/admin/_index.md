@@ -3,15 +3,15 @@ bio: My research interests include distributed robotics, mobile computing and pr
   matter.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Bioinformatics
+    institution: FAU Erlangen-Nürnberg
+    year: 2024 (expected)
+  - course: MSc in Integrated Life Sciences
+    institution: FAU Erlangen-Nürnberg
+    year: 2021
+  - course: BSc in Biology
+    institution: Albert-Ludwigs-Universität Freiburg
+    year: 2017
 first_name: Alexander
 highlight_name: true
 interests:
