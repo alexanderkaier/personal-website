@@ -38,7 +38,7 @@ sections:
       text_color_light: true
 - block: about.biography
   content:
-    title: Biography
+    title: <!-- Biography -->
     username: admin
   id: about
 - block: skills

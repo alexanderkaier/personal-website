@@ -86,28 +86,28 @@ social:
   icon: twitter
   icon_pack: fab
   label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
+  link: <!-- twitter.com/alexanderkaier -->
 - icon: graduation-cap
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/alexanderkaier
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/
 - icon: cv
   icon_pack: ai
-  link: uploads/resume.pdf
+  link: <!-- uploads/resume.pdf -->
 status:
   icon: ☕️
 superuser: true
 title: Alexander Kaier
 ---
 
-Welcome! I am a Bioinformatician who is interested in multi-omics approaches and selection theory to help invent the crops we eat tomorrow. My current focus lies on the illumination of the biochemical processes underlying heat and drought stress in potato plants.
+Welcome! I am a Bioinformatician who is interested in multi-omics approaches and selection theory to help develop the crops we eat tomorrow. My current focus lies on the illumination of the biochemical processes underlying heat and drought stress in potato plants.
 
-Besides my research, I am passionate about statistics, mathematics and philosophy and do not shy away from a deep discussion about the nature and boundaries of human knowledge.
+Besides my research, I am passionate about statistics, mathematics and philosophy and love to think about the nature and boundaries of human knowledge, the role of mathematics in the sciences and new ways to look at the world.
 
 Feel free to reach out to me if you want to know more about evolutionary theory, molecular breeding approaches, statistical analysis or if you are interested in a collaboration.
 
