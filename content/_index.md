@@ -48,6 +48,7 @@ sections:
     username: admin
   design:
     columns: "1"
+
 - block: experience
   content:
     date_format: Jan 2006
@@ -59,8 +60,7 @@ sections:
       date_start: "2021-01-01"
       description: |2-
           Responsibilities include:
-
-          * Analysing
+          * Testing
           * Modelling
           * Deploying
       location: California
@@ -80,35 +80,35 @@ sections:
   content:
     date_format: Jan 2006
     items:
-    - certificate_url: https://www.coursera.org
-      date_end: ""
-      date_start: "2021-01-25"
-      description: ""
-      icon: coursera
-      organization: Coursera
-      organization_url: https://www.coursera.org
-      title: Neural Networks and Deep Learning
-      url: ""
-    - certificate_url: https://www.edx.org
-      date_end: ""
-      date_start: "2021-01-01"
-      description: Formulated informed blockchain models, hypotheses, and use cases.
-      icon: edx
-      organization: edX
-      organization_url: https://www.edx.org
-      title: Blockchain Fundamentals
-      url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    - certificate_url: https://www.datacamp.com
-      date_end: "2020-12-21"
-      date_start: "2020-07-01"
-      description: ""
-      icon: datacamp
-      organization: DataCamp
-      organization_url: https://www.datacamp.com
-      title: Object-Oriented Programming in R
-      url: ""
+    # - certificate_url: https://www.coursera.org
+    #   date_end: ""
+    #   date_start: "2021-01-25"
+    #   description: ""
+    #   icon: coursera
+    #   organization: Coursera
+    #   organization_url: https://www.coursera.org
+    #   title: Neural Networks and Deep Learning
+    #   url: ""
+    # - certificate_url: https://www.edx.org
+    #   date_end: ""
+    #   date_start: "2021-01-01"
+    #   description: Formulated informed blockchain models, hypotheses, and use cases.
+    #   icon: edx
+    #   organization: edX
+    #   organization_url: https://www.edx.org
+    #   title: Blockchain Fundamentals
+    #   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+    # - certificate_url: https://www.datacamp.com
+    #   date_end: "2020-12-21"
+    #   date_start: "2020-07-01"
+    #   description: ""
+    #   icon: datacamp
+    #   organization: DataCamp
+    #   organization_url: https://www.datacamp.com
+    #   title: Object-Oriented Programming in R
+    #   url: ""
     subtitle: null
-    title: Accomplish&shy;ments
+    title: Accomplishments
   design:
     columns: "2"
 - block: collection
@@ -140,6 +140,10 @@ sections:
       tag: '*'
     - name: Deep Learning
       tag: Deep Learning
+    - name: Bioinformatics
+      tag: Bioinformatics
+    - name: Statistics
+      tag: Statistics
     - name: Other
       tag: Demo
     default_button_index: 0
@@ -152,24 +156,24 @@ sections:
     flip_alt_rows: false
     view: showcase
   id: projects
-- block: markdown
-  content:
-    subtitle: ""
-    text: '{{< gallery album="demo" >}}'
-    title: Gallery
-  design:
-    columns: "1"
-- block: collection
-  content:
-    filters:
-      featured_only: true
-      folders:
-      - publication
-    title: Featured Publications
-  design:
-    columns: "2"
-    view: card
-  id: featured
+# - block: markdown
+#   content:
+#     subtitle: ""
+#     text: '{{< gallery album="demo" >}}'
+#     title: Gallery
+#   design:
+#     columns: "1"
+# - block: collection
+#   content:
+#     filters:
+#       featured_only: true
+#       folders:
+#       - publication
+#     title: Featured Publications
+#   design:
+#     columns: "2"
+#     view: card
+#   id: featured
 - block: collection
   content:
     filters:
@@ -180,7 +184,7 @@ sections:
       {{% callout note %}}
       Quickly discover relevant content by [filtering publications](./publication/).
       {{% /callout %}}
-    title: Recent Publications
+    title: Publications
   design:
     columns: "2"
     view: citation
