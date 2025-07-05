@@ -16,15 +16,14 @@ highlight_name: true
 interests:
 - Artificial Intelligence
 - Bioinformatics
-- Quantitative Genetics
-- Statistical Genetics
+- Statistical and Quantitative Genetics
 - Data Science
 - Statistics
 last_name: Kaier
 organizations:
 - name: FAU Erlangen-Nürnberg
   url: https://www.stanford.edu/
-role: PhD student of Bioinformatics and Quantitative Genetics
+role: Group Leader Bioinformatics Group
 skills:
 - items:
   - description: ""

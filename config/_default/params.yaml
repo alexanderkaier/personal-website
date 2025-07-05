@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: ocean                                                                                                            
-  theme_night: ocean
+  theme_day: hugo-lithium                                                                                                            
+  theme_night: hugo-lithium
   font: minimal
   font_size: M
 

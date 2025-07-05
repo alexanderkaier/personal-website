@@ -20,7 +20,7 @@ date: "2024-11-01T00:00:00Z"
 doi: "https://doi.org/10.1016/j.ygeno.2024.110954"
 featured: false
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 'Image credit: [**Kaier et al. (2024)**](https://unsplash.com/photos/jdD8gXaTZsc)'
   focal_point: ""
   preview_only: false
 projects: []

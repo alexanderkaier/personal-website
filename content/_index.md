@@ -177,7 +177,6 @@ sections:
 - block: collection
   content:
     filters:
-      exclude_featured: true
       folders:
       - publication
     text: |-
@@ -188,6 +187,7 @@ sections:
   design:
     columns: "2"
     view: citation
+  id: publications
 - block: collection
   content:
     filters:
